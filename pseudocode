@@ -1,0 +1,8 @@
+factoriel??? 
+"la factorielle d'un entier naturel n est le produit 
+des nombres entiers strictement positifs inférieurs ou égaux à n."
+3 = 1*2*3 = 6
+4 = 1*2*3*4 = 24
+Ect
+4  > 4*1*2*3
+    n*n-1*n-1
